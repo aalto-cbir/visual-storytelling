@@ -1,12 +1,10 @@
 # Visual storytelling
-___
 
 In the space of automated captioning, the task of visual storytelling is one dimension. Given sequences of images as inputs, visual storytelling (VIST) is about automatically generating textual narratives as outputs.
 
 This repository borrows heavily from [Aalto CBIR DeepCaption](https://github.com/aalto-cbir/DeepCaption) codebase.
 
 ## Requirements
-___
 
 - Python 3+, Python 2.7 (for arel submodule utilizing NLP metrics)
 - PyTorch (v1.0+), torchvision 0.2.0+
@@ -16,7 +14,6 @@ ___
 - pickle
 
 ## Models
-___
 
 The following models are implemented:
 
@@ -27,7 +24,7 @@ The following models are implemented:
 5. Character-centric storytelling model - https://arxiv.org/abs/1909.07863
 
 ## Usage
-___
+
 This repository has the following structure:
 ```
 resources
@@ -80,7 +77,7 @@ python2 arel/train_GAN.py --test [--options]
 with `[--options]` being a collection of train/test phase model parameters and tunable hyperparameters which are documented in detail in the respective `.py` files.
 
 ## Sample results
-___
+
 ![sample_result1](sample_result1.png)
 
 ![sample_result2](sample_result2.png)
