@@ -1,0 +1,9 @@
+.idea/
+resources/images/
+resources/sis/
+*__pycache__/
+*.ipynb_checkpoints/
+resources/PicSOM_instructions/
+resources/split_details/
+resources*
+.nbgrader.log

@@ -1,0 +1,9 @@
+*.pth
+*.pyc
+test.ipynb
+.ipynb_checkpoints
+.idea
+*history
+data/*
+run_on_taito.sh
+VIST/*

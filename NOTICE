@@ -1,0 +1,9 @@
+Visual Storytelling
+Copyright 2019, CBIR research group, Aalto University
+
+Some parts of the code were originally based on the image captioning based on tutorial by yunjey, which is licensed under MIT:
+https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning
+
+Some parts of the code were originally based on the AREL and GLAC-net repositories:
+https://github.com/eric-xw/AREL/
+https://github.com/tkim-snu/GLACNet
